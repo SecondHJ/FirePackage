@@ -3,3 +3,6 @@ server:
   port: 22
   username: myUsername
   password: myPassWord
+
+module:
+  name: moduleName
